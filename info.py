@@ -71,7 +71,6 @@ FILE_REQ_CHANNEL = int(environ.get('FILE_REQ_CHANNEL', -1001814614020''))
 
 SHORTNER_SITE =  environ.get('SHORTNER_SITE', 'tnshort.net') #Put Only Shortner Site domain don't put like this https://tnlink.in/
 
-SHORTNER_API =  environ.get('SHORTNER_API', '7da8b3b03899edea0102565e79a412c3a977db03
-')
+SHORTNER_API =  environ.get('SHORTNER_API', '7da8b3b03899edea0102565e79a412c3a977db03')
 
 AUTO_DELETE =  environ.get('AUTO_DELETE', 'True')
