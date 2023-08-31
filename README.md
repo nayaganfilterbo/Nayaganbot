@@ -3,7 +3,7 @@
   <img src="https://graph.org/file/78c3820777baffe70407f.jpg" alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
-    <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
+    <b>Nayagan Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
 # 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ Nayaganbot
